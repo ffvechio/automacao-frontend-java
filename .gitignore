@@ -1,0 +1,14 @@
+*.iml
+.idea/*
+/.idea/*.xml
+/.classpath
+/target/*
+output/
+test-output/*
+/.project
+*.DS_Store
+/target/
+*.classpath
+*.project
+Reports/
+/*.log
