@@ -12,7 +12,6 @@ Funcionalidade: Adicionar Contas
 
   @execute @chrome-same-session @generate-word
   Esquema do Cenario: CT - ADICIONAR CONTAS - Adicionar Contas com Sucesso.
-
     Quando clico no menu contas
     E seleciono a opção adicionar
     E preencho o campo nome <NOME>

@@ -8,7 +8,6 @@ Funcionalidade: Cadastrar Novo Usuário na apicação do Sr Barriga
 
   @execute @chrome-same-session @generate-word
   Esquema do Cenario: CT - CADASTRO DE USUÁRIO - Cadastrar Novo Usuário com sucesso.
-
     Dado que estou na página de cadastro do SrBarriga através da url "urlCadastro"
     Quando preencho o campo nome com o valor <NOME>
     E preencho o campo email com o valor <EMAIL>
@@ -23,7 +22,6 @@ Funcionalidade: Cadastrar Novo Usuário na apicação do Sr Barriga
 
   @execute @chrome-same-session @generate-word
   Esquema do Cenario: CT - CADASTRO DE USUÁRIO - Cadastrar Novo Usuário com erro.
-
     Dado que estou na página de cadastro do SrBarriga através da url "urlCadastro"
     Quando preencho o campo nome com o valor <NOME>
     E preencho o campo email com o valor <EMAIL>

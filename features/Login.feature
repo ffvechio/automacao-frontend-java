@@ -8,7 +8,6 @@ Funcionalidade: Logar na apliação do Sr Barriga
 
   @execute @chrome-same-session @generate-word
   Esquema do Cenario: CT - LOGIN - Logar na Aplicação do Sr barriga com sucesso.
-
     Dado que estou na página de login através da url "urlLogin"
     Quando preencho o campo email <EMAIL>
     E preencho o campo senha <SENHA>

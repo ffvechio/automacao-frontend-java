@@ -1,4 +1,4 @@
-# Framework de Automação FRONT-END - SulAmerica Saúde #
+# Framework de Automação FRONT-END #
 
 ## Pré-requisitos ##
 
